@@ -1,4 +1,5 @@
 # main.py
+import volumen
 
 def menu_principal():
     print("=== SISTEMA DE CONVERSIONES ===")
@@ -10,8 +11,7 @@ def menu_principal():
     return opcion
 
 def modulo_volumen():
-    # Aquí un compañero puede desarrollar su código en otra rama
-    print("\n[Módulo de Volumen en construcción...]\n")
+    volumen.mostrar_menu_volumen()
 
 def modulo_velocidad():
     # Aquí otro compañero puede desarrollar su código en otra rama
