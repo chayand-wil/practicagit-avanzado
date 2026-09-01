@@ -4,7 +4,7 @@ def menu_principal():
     print("=== SISTEMA DE CONVERSIONES ===")
     print("1. Conversiones de Volumen")
     print("2. Conversiones de Velocidad")
-    print("3. Salir")
+    print("3. Salir xd")
     
     opcion = input("Elige una opción: ")
     return opcion
