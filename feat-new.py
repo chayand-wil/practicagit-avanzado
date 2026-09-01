@@ -9,7 +9,7 @@ def calcular_promedio(notas):
 
     promedio = suma / len(notas)
 
-    if promedio >= 59:
+    if promedio >= 60:
         estado = "Aprobado"
 
     elif promedio >=70:
