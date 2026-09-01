@@ -38,7 +38,8 @@ def main():
             print("Este es un reporte de venta")
         elif opcion == '5':
             print("Aqui se calcula la desnsidad")
-            print("volumen/masa")
+            print("volumen/masa ")
+            print("Masa/volumen")
         else:
             print("Opción no válida. Intenta de nuevo.\n")
 
