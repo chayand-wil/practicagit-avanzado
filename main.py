@@ -29,7 +29,10 @@ def main():
             print("Saliendo del programa...")
             break
         elif opcion == '4':
-            print("Cambio escenario 2 que genera conflicto")
+
+            print("Esta es un a division persona B")
+            print(" + Cambio escenario 2 desde Persona AAA")
+
         else:
             print("Opción no válida. Intenta de nuevo.\n")
 
