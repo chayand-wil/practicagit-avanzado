@@ -1,0 +1,11 @@
+#excluye esos tres archivos del repositorio
+#archivo de configuracion de vscode
+workspace.vscode
+#archivo de configuracion de properties
+properties.yml
+#archivo de mac
+.DS_Store
+
+#archivo de python
+__pycache__
+*.pyc
