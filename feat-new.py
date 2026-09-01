@@ -23,3 +23,4 @@ def calcular_promedio(notas):
 
 
 print(calcular_promedio([70, 80, 55, 90]))
+print(calcular_promedio([85,87,90]))
