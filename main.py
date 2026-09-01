@@ -42,6 +42,8 @@ def main():
             print("Masa/volumen")
         else:
             print("Opción no válida. Intenta de nuevo.\n")
+#escenario 6 commit 1
+
 
 if __name__ == "__main__":
     main()
