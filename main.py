@@ -35,7 +35,7 @@ def main():
         elif opcion == '5':
             print("Esta es una a Venta")
             print("Este es un detalle de venta")
-
+            print("Este es un reporte de venta")
         else:
             print("Opción no válida. Intenta de nuevo.\n")
 
