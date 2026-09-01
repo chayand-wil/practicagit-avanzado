@@ -1,4 +1,4 @@
-def calcular_total(precio, cantidad):
+def calcular_total(precio: float, cantidad: int):
     """Calcula el total de una compra."""
     total = precio * cantidad
     return total
