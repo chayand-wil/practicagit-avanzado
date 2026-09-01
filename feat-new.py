@@ -11,6 +11,9 @@ def calcular_promedio(notas):
 
     if promedio >= 60:
         estado = "Aprobado"
+
+    elif promedio >=70
+        estado ="Excelente"	
     else:
         estado = "Reprobado"
 
