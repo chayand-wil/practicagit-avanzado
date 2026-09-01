@@ -34,6 +34,7 @@ def main():
             print(" + Cambio escenario 2 desde Persona AAA")
         elif opcion == '5':
             print("Esta es una a Venta")
+            print("Este es un detalle de venta")
 
         else:
             print("Opción no válida. Intenta de nuevo.\n")
