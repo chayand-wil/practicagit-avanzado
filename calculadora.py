@@ -5,3 +5,4 @@ def calcular_total(precio: float, cantidad: int):
 
 print(calcular_total(5, 2))
 # Modulo de calculos comerciales
+# Version de practica
