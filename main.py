@@ -29,7 +29,7 @@ def main():
             print("Saliendo del programa...")
             break
         elif opcion == '4':
-            print("Cambio escenario 2")
+            print("Cambio escenario 2 que genera conflicto")
         else:
             print("Opción no válida. Intenta de nuevo.\n")
 
