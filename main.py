@@ -28,6 +28,8 @@ def main():
         elif opcion == '3':
             print("Saliendo del programa...")
             break
+        elif opcion == '4':
+            print("Cambio escenario 2")
         else:
             print("Opción no válida. Intenta de nuevo.\n")
 
